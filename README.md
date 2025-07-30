@@ -2,7 +2,7 @@
 - 👀 I’m interested in:c++,web development
 - 🌱 I’m currently learning:c++,git and github
 - 💞️ I’m looking to collaborate on simple c++ projects
-- 📫 How to reach me zunairasarbulandali08@gmail.com
+- 📫 How to reach me zunairasarbulandali@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am building my skills step by step
 
